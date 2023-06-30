@@ -36,7 +36,7 @@ useEffect(async () => {
                 type="text" 
                 name="search" 
                 id="search" 
-                placeholder='🔍 Search movie or show'
+                placeholder='Search movie or show'
                 onChange={(e) => setQuery(e.target.value)}
                 />
             </div>
