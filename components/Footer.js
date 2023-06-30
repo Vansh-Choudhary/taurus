@@ -13,7 +13,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Vansh
+            Vanshu
           </a>
         </p>
         <p>Powered by VWS</p>
