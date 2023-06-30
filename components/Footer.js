@@ -9,14 +9,14 @@ const Footer = () => {
           Made with ❤️ by{" "}
           <a
             className="font-bold"
-            href="https://twitter.com/parnexcodes"
+            href="https://twitter.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            parnex
+            Vansh
           </a>
         </p>
-        <p>Powered by NextJS</p>
+        <p>Powered by VWS</p>
       </footer>
     </div>
   );
