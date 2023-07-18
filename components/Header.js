@@ -20,7 +20,7 @@ const Header = () => {
     </li>
     <li className="list-none my-8 pr-2">
         <a href="https://discord.gg/" className="rounded-md px-4 py-2 bg-zinc-800 text-gray-300 hover:opacity-70">
-            <span>Aish's Fav</span></a>
+            <span>Discord</span></a>
     </li>
 </div>
      );
